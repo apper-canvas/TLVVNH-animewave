@@ -40,6 +40,7 @@ function App() {
             <a href="#" className="font-medium hover:text-primary transition-colors">Browse</a>
             <a href="#" className="font-medium hover:text-primary transition-colors">New Releases</a>
             <a href="#" className="font-medium hover:text-primary transition-colors">My List</a>
+            <a href="#" className="font-medium hover:text-primary transition-colors">Favourites</a>
           </nav>
 
           <div className="flex items-center gap-3">
@@ -87,6 +88,7 @@ function App() {
               <a href="#" className="font-medium hover:text-primary transition-colors py-2 border-b border-surface-700">Browse</a>
               <a href="#" className="font-medium hover:text-primary transition-colors py-2 border-b border-surface-700">New Releases</a>
               <a href="#" className="font-medium hover:text-primary transition-colors py-2 border-b border-surface-700">My List</a>
+              <a href="#" className="font-medium hover:text-primary transition-colors py-2 border-b border-surface-700">Favourites</a>
             </nav>
           </motion.div>
         )}
