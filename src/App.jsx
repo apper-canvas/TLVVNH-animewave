@@ -30,7 +30,7 @@ function App() {
             </button>
             <div className="flex items-center">
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                AnimeWave
+                Akshay
               </span>
             </div>
           </div>
@@ -74,7 +74,7 @@ function App() {
           >
             <div className="flex justify-between items-center mb-8">
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                AnimeWave
+                Akshay
               </span>
               <button 
                 onClick={() => setMobileMenuOpen(false)}
@@ -106,7 +106,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
               <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                AnimeWave
+                Akshay
               </span>
               <p className="text-surface-400 mt-2">Your premium anime streaming destination</p>
             </div>
@@ -138,7 +138,7 @@ function App() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-surface-700 text-center text-surface-500">
-            <p>© {new Date().getFullYear()} AnimeWave. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Akshay. All rights reserved.</p>
           </div>
         </div>
       </footer>
